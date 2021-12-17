@@ -2,9 +2,9 @@ local cp = require("catppuccin.core.color_palette")
 local catppuccin = {}
 
 catppuccin.normal = {
-	a = { bg = cp.catppuccin9, fg = cp.catppuccin14 },
+	a = { bg = cp.catppuccin9, fg = cp.catppuccin13 },
 	b = { bg = cp.catppuccin12, fg = cp.catppuccin9 },
-	c = { bg = cp.catppuccin14, fg = cp.catppuccin10 },
+	c = { bg = cp.catppuccin13, fg = cp.catppuccin10 },
 }
 
 catppuccin.insert = {
